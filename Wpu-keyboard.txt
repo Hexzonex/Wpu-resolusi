@@ -1,5 +1,2 @@
-WPU RESOLUSI
-- pengen belajar otodidak
-- wawasan luas
-- pengen buat platform sendiri
-- nyoba github
+WPU function keyboard
+- Ctrl+A: blok all text
