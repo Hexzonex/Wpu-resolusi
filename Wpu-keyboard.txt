@@ -1,2 +1,6 @@
 WPU function keyboard
 - Ctrl+A: blok all text
+- Ctrl+B
+- Ctrl+C
+- Ctrl+D
+- Ctrl+E
