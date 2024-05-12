@@ -1,6 +1,6 @@
-WPU function keyboard
-- Ctrl+A: blok all text
-- Ctrl+B
-- Ctrl+C
-- Ctrl+D
-- Ctrl+E
+WPU function keyboard in ms word
+- Ctrl+A:blok all text
+- Ctrl+B:bold text
+- Ctrl+C:copy text
+- Ctrl+D:delete text
+- Ctrl+E:shortcut for aligning text to the center of a line or paragraph
